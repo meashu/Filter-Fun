@@ -1,0 +1,52 @@
+
+canvas{
+  heigth:300px;
+  border:2px solid black;
+  border-radius: 8px;
+      box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.heading{
+font: italic 5em "Fira Sans", serif;
+}
+.button {  background-color: white;
+  color: black; border-radius: 8px;
+  border: 2px solid #555555;
+  width: 115px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #555555;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.buttonreset{
+  border-radius: 7px;
+ color: black;
+   background-color: #4CAF50;
+  border: 2px solid #4CAF50;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   width: 60px;
+}
+.buttonreset:hover {
+  
+  color: black;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.divGreenScreen{
+  border:3px solid green;
+  Width:40%;
+  border-radius:15px;
+  padding:15px;
+   border-width: medium;
+     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+margin-top:10px
+  
+}
+.greenbuttons{
+  text-align:center
+}
+body{
+	background: radial-gradient(80% 40%, white, #AFEEEE);
+	
+}
